@@ -1,0 +1,10 @@
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_05\Piazza_05\bin\Debug\Piazza_05.exe.config
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_05\Piazza_05\bin\Debug\Piazza_05.exe
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_05\Piazza_05\bin\Debug\Piazza_05.pdb
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_05\Piazza_05\obj\Debug\Piazza_05.csprojResolveAssemblyReference.cache
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_05\Piazza_05\obj\Debug\Piazza_05.Properties.Resources.resources
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_05\Piazza_05\obj\Debug\Piazza_05.csproj.GenerateResource.Cache
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_05\Piazza_05\obj\Debug\Piazza_05.exe
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_05\Piazza_05\obj\Debug\Piazza_05.pdb
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_05\Piazza_05\obj\Debug\Piazza_05.GettingStartedWithGDIPlus.resources
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_05\Piazza_05\obj\Debug\Piazza_05.Starship.resources
